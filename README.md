@@ -2,6 +2,8 @@
 
 # RATOM Logos
 
+Logo files for the RATOM project, made available for use by project team members and the community with Creative Commons Attribution 4.0 licensing.
+
 * RATOM_Vector_Logo_v1_1200px.png - Version 1, 1200px width PNG, transparent background
 * RATOM_Vector_Logo_v1_1200px.jpg - Version 1, 1200px width JPG
 * RATOM_Vector_Logo_v1_600px.png - Version 1, 600px width PNG, transparent background
@@ -16,7 +18,7 @@
 
 ## License(s)
 
-Unless otherwise indicated, software items in this repository are distributed under the terms of the MIT License. See the LICENSE file for additional details.
+Logos, documentation, and other non-software products of the RATOM team are distributed under the terms of Creative Commons 4.0 Attribution. Software items in RATOM repositories are distributed under the terms of the MIT License. See the LICENSE file for additional details.
 
 ## Development Team and Support
 
