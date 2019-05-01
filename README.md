@@ -11,6 +11,8 @@ Logo files for the RATOM project, made available for use by project team members
 * RATOM_Vector_Logo_v1_300px.png - Version 1, 300px width PNG, transparent background
 * RATOM_Vector_Logo_v1_300px.jpg - Version 1, 300px width JPG
 
+* RATOM_Vector_Logo_v1_M*.* - Version 1, 512px and 600px PNG, JPG, and XCF of the "M" logo element
+
 * RATOM_Vector_Logo_v1.png - Version 1, 300dpi PNG (approx. 1800px width)
 
 * RATOM_Vector_Logo_v1.ai - Version 1, Adobe Illustrator source
